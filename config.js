@@ -1,7 +1,7 @@
 const nameGirl = 'Bích Hâm';
 const giftUrl = 'http://nodemy.vn';
-const eventName = '';
-const titleCard = '';
+const eventName = '.';
+const titleCard = '.';
 const contentCard = 'và đây là Hồng Bích người con gái hiền nhất tôi biết';
 
 // phần dưới dành cho các bạn biết code, nếu muốn chỉnh ảnh đơn giản với base64
